@@ -1,5 +1,5 @@
 local games = {
-[166986752] = "https://raw.githubusercontent.com/ToraScript/Script/main/BlueLock"
+[166986752] = "https://raw.githubusercontent.com/motonik-heldoaxxyy/DevinHub/refs/heads/main/plane%20crazy.txt"
 }
 
 
