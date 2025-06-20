@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/motonik-heldoaxxyy/DevinHub/refs/heads/main/key%20system.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/motonik-heldoaxxyy/DevinHub/refs/heads/main/keySystem.txt"))()
