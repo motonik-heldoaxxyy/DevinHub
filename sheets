@@ -217,7 +217,8 @@ j [HOru] W f f G
 [03O] [(@] [!*IOru]
 [(@DIP] D [!*Ou]
 [(@DIP] [*D] ( [%DW]
-[%DIpS] % [@D] ]==], 
+[%DIpS] % [@D]
+]==], 
 
 ["NiFEM(Hard")] = [==[P [@h] [wY] [EYo] (
 [Wyg] [ryOh] [@g]
@@ -362,7 +363,8 @@ H s d [@Do] [EP]
 [^h] [(Do] [EP] [^h]
 [@Do] [EP] [^h]
 [(Do] [EP] [^h]
-[(EDo] [YPhZ] [@^Yw] ]==], 
+[(EDo] [YPhZ] [@^Yw]
+]==], 
 
 ["NiFEM(Easy)"] = [==[s [jq] [et] 
 [et] q [Ehu] 
@@ -427,7 +429,8 @@ H s d [@Do] [EP]
 [9W] [8s] [Eqx] 
 [ELq] [8z] L l k [0EJ] h f S 
 [0Es] f j h [gq] [et] 
-[et] q]==], 
+[et] q
+]==], 
 
 ["Iris Out"] = [==[ [59w] ryOoIoadgh[adkovz]-
 [4i] [8OqsW] [4g][Os][8qW]i4s[aqtW]sO4[iq]8
@@ -545,7 +548,8 @@ t[9y]w[5t][Ey]9[tw][9y]5[9t][wy]5[tw][9y]w[9t]
 [eo][(iP]-oo[EoY] [(d] [*iOsT]-P--
 [9IPy][9IPy] [2IPy][2IPy] [5oPy][5oPy] [9o][hw][9s]
 E[9gp]w[5dP] [9iP]w[9iP][4os][dp][8os]q[@iP] [^P][(s][^P]
-[iPw]^[(g][4dip] [8P]q[8P][4os][dp][8os]q[(@^iP]---- ]==],
+[iPw]^[(g][4dip] [8P]q[8P][4os][dp][8os]q[(@^iP]----
+]==],
 
 ["Specialz"] = [==[ l-j-j-
 l--j--
@@ -630,7 +634,8 @@ d-[03f]-s-a-
 [4q]-[qs]-[pt]-[pq] 4 
 [03s]-0-[pr]-0 3 
 [03]--p--
-[03O]--p-- ]==],
+[03O]--p--
+]==],
 
 ["Standing Here, I Realize(Tempo 70)"] = [==[ f| d|
 [se] u p a s d f p
@@ -652,7 +657,8 @@ d-[03f]-s-a-
 [pj]| [ka]|
 [sl4] 8 q e [ztd] i p s
 [xf5] 9 w r [yvh] o a d
-[jb6]| x l j f s p u t e 0 8| 6 ]==],
+[jb6]| x l j f s p u t e 0 8| 6
+]==],
 
 ["Ballin'"] = [==[ r r r r t r e w r y y y y r y y y y y y y u
 y y y y y u r e w w y y y y y u r e w w
@@ -680,7 +686,8 @@ y y y y y u r e w w
 r r r t r e w e e w e
 r r r r t r e w e e w y r 
 r r r r r e w e e w y r
-y y u r r e e e w y r ]==],
+y y u r r e e e w y r
+]==],
 
 ["AIZO(Hard)"] = [==[ [6ejp] e [6ejp] 0 [ejp] u [ejp]-
 [5w] [6e] [18t] [6y] [4i]u y[8u] 6 
@@ -752,7 +759,8 @@ y y u r r e e e w y r ]==],
 [6epQt] [7aru] 0 [epst]-[5dpwy] 8 [$dQu] 
 [fpu] [6e] [46q] [5aho] [8fjps] [6e] 0 8 
 [34r]ewq0987[46]-6-
-6 ]==],
+6
+]==],
 
 ["AIZO(Easy)"] = [==[ [6p]-
 [6p]-p-p-
@@ -815,7 +823,8 @@ j [6d]-[6f]-[6d]-[6f]-[5h]-
 [5f] d 5 s 5-[$d]-[$f]-
 [$d]-f$-[4j]-[4f] d 3 s 
 3 s [6d]-f6-[6d]-[6s]-
-[5p]-o ]==],
+[5p]-o
+]==],
 
     ["As The Skyfall"] = [==[ [6pt]-[pt] 6 [4pt]-[pt] 4 
 [2pt]-[pt] 2 [pt] 9 [pt]9-
@@ -855,7 +864,8 @@ s-a-[6ptu]--
 [4it]--[2It]--
 [9it]----
 [6t][0O]a----
-[36r]---- ]==], 
+[36r]----
+]==], 
 
      ["As The Skyfall, But Only The Good Part"] = [==[ [0frW]-[0rW]-[0rW]-p s 
 [aetu] pp--[eqt]--
@@ -880,7 +890,8 @@ s-a-[6ptu]--
 [4it]--[2It]--
 [9it]----
 [6t][0O]a----
-[36r]---- ]==], 
+[36r]----
+]==], 
 
     ["Never Meant To Belong"] = [==[ [6rtu]--
 [rtu]--[etu]--
@@ -991,7 +1002,8 @@ p-O p a [4s]--
 O--i--
 y--[7u]--
 o-[3i]--
-[3u]-- ]==], 
+[3u]--
+]==], 
 
  ["Low Cortisol"] = [==[ [p4tuiq] [st] f o [5yuoaw] [ay] f o [1tyuoP8] [aw] [dt] u [6tup] [p0] [se] s [4tipqe] s s d f f f a [5yioaqr] a a s d d d a [3yuoa0wr] a a s d o p s [6tup0e] s s p s d d s [4tipqe] s s d f f f a [5yioaqr] a a s d d d a [3yuoa0wr] a a s d o p s [6tup0e] s s p s d d s [4tipqe] s s p p a [5yioaqr] a a o o a [3yuoa0wr] a a o o s [6tup0e] s s p s d d s [4tipqe] s s p p a [5yioaqr] a a o o a [3yuoa0wr] a a o o s [6tup0e] s s p s d - f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] d f d [5yioaqr] d f d [3yuoa0wr] s s s p [6tup0e] f g h [4tipqe] j j h [5yioaqr] d f d [3yuoa0wr] s s s s p [6tup0e] ]=], 
  ["Low Cortisol Short"] = [=[ [6tup0e] s s p s d - f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] d f d [5yioaqr] d f d [3yuoa0wr] s s s p [6tup0e] f g h [4tipqe] j j h [5yioaqr] d f d [3yuoa0wr] s s s s p [6tup0e] ]=], 
@@ -1118,7 +1130,8 @@ q [etY] [HOq] [eHOt] [JPq]8[4LS] [8DZ]
 *QtiYTQETsPO
 TIPsSgIPSgJlSGJlLcGJLcBm
 GJLcBmGJLcBmGJLcBmGJLcBm
-GJLcBmGJLcBm[cq][*B][$m][$B]c--]==], 
+GJLcBmGJLcBm[cq][*B][$m][$B]c-
+]==], 
 
  ["Hollow Nuke"] = [==[ t i
 p f b g g b f [gb]
@@ -1148,11 +1161,12 @@ z e [wk] q [7ofh] 0
 w r u o [wa] u f h k
 [qm] u n [am] v s m
 h g f [tm] u O n m
-[sv] m d m v a ]==], 
+[sv] m d m v a
+]==], 
 
 
 
-["Honored One"] = [==[i p a s a p i p a s
+["Honored One"] = [== [i p a s a p i p a s
 a p i p a s a p i p
 a s a p u o a [sk] a
 o u o a d a o u o a
@@ -1219,9 +1233,10 @@ z e [wk] q [7ofh] 0
 w r u o [wa] u f h k
 [qm] u n [am] v s m
 h g f [tm] u O n m
-[sv] m d m v a]==], 
+[sv] m d m v a
+]==], 
 
- ["Rush E"] = [==[u----
+ ["Rush E"] = [== [u----
 u----
 u----
 u----
@@ -1375,9 +1390,10 @@ u u u u u u u [fu]
 [IsYZ] L l Z [iLPT] l J L 
 [lptY] J j l [EJPT] g S P 
 [4Gq] g [5Dw] S [6es] P [4pq] s 
-[^EP]--[^gJS] ]==], 
+[^EP]--[^gJS]
+]==], 
 
-["Fighting Alongside Short"] = [==[u----
+["Fighting Alongside Short"] = [== [u----
 [iqry]----[ipst]-tp
 s--[6aou]--u-[6otu]--
 u-[$dIPQ]----
@@ -1404,7 +1420,8 @@ q[dow][5a]-d5[aw]9[fo]5[9ao] w[0aru]3-[3or]
 o[6p][6o][6p][6psu]66 [4eit][4eit]4y[or]
 5r[5o][ry][5o][5ptu]66o6p6o[6p][6psu] 6[6o]p6
 [6o][6p][6psu] 6[5oruw]5[6ptu]6-o[6p][6o][6p]
-[6psu]6[6d][2af]d[2f][3afhkv]-[3afhkv]-[3afjkr]---- ]==], 
+[6psu]6[6d][2af]d[2f][3afhkv]-[3afhkv]-[3afjkr]----
+]==], 
 
 ["Fighting Alongside"] = [==[ [deptu]f ak-[deptu]-
 f-afk-[deptu]fask-
@@ -1485,6 +1502,7 @@ q[dow][5a]-d5[aw]9[fo]5[9ao] w[0aru]3-[3or]
 o[6p][6o][6p][6psu]66 [4eit][4eit]4y[or]
 5r[5o][ry][5o][5ptu]66o6p6o[6p][6psu] 6[6o]p6
 [6o][6p][6psu] 6[5oruw]5[6ptu]6-o[6p][6o][6p]
-[6psu]6[6d][2af]d[2f][3afhkv]-[3 ,afhkv]-[3afjkr]---- ]==]
+[6psu]6[6d][2af]d[2f][3afhkv]-[3 ,afhkv]-[3afjkr]----
+]==]
 }
 }
