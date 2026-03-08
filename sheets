@@ -1236,7 +1236,7 @@ h g f [tm] u O n m
 [sv] m d m v a
 ]==], 
 
- ["Rush E"] = [== [u----
+ ["Rush E"] = [==[ u----
 u----
 u----
 u----
@@ -1393,7 +1393,7 @@ u u u u u u u [fu]
 [^EP]--[^gJS]
 ]==], 
 
-["Fighting Alongside Short"] = [== [u----
+["Fighting Alongside Short"] = [==[ u----
 [iqry]----[ipst]-tp
 s--[6aou]--u-[6otu]--
 u-[$dIPQ]----
