@@ -518,7 +518,17 @@ H s d [@Do] [EP]
 [6e]V[OTuV] [be]VCx[OTuZ]Lkj[%HW] [IltY]Lz[WZ]xc[CItY]vV
 [*T]VxZLZ[8tx]V-V[*T]-* ]==], 
 
-["Kaikai Kitan(Yami Wo Haratte)"] = [==[ [9eIpy][2eIpy] [5iPwy] [9o][dhw][9s]E[9gp]w[5dP] [9iP]w[9iP]
+["Iris Out Short"] = [==[ [6HLVx][OTu][efHx][OTu][%CGlWZ][CGlZ][ItY][CGlZ]W[fx][DItYZ]
+[*HLVx][OTu][fHWx][OTu][*CGHT][CGH][OTu][CGH]W[fx][DOTuZ]
+[8HltV][bjOtY][HVW][fOtxY][*fLST][fOTux][6eHV][LOTux]
+[%lmW][HIltVY][CGjW][fHItxY][DGZ]%[OtY]-
+[6HLVx][OTu][efHx][OTu][%CGlWZ][CGlZ][ItY][CGlZ]W[fx][DItYZ]
+[8kntZ][LOt][%knWZ][bjOt][*HLTVx][Ou][LST][LOSu]
+[eHLVx][bfjpS][HV][fpSx][HlVW][bDjOs][HV][fOsx]
+[LST]-[Lx]-[*fLS][HW][hw][GQ][0f]
+[6S][fHLOTu][eh]H[fOTu]S[%sW][DHIltY][fW]G[DItY]s ]]
+
+["Kaikai Kitan"] = [==[ [9eIpy][2eIpy] [5iPwy] [9o][dhw][9s]E[9gp]w[5dP] [9iP]w[9iP]
 [4os][dp][8os]q[@iP] [^P][(s][^P][iPw]^[(g][4dip] [8P]q[8P]
 [4os][dp][8os]q[5iP] [9o][dhw][9s]E[9gp]w[5dP] [9iP]w[9iP]
 [4os][dp][8os]q[@iP] [^P][(s][^P][iPw]^[(g][4dp] [8iP]q[8P]
@@ -826,7 +836,7 @@ j [6d]-[6f]-[6d]-[6f]-[5h]-
 [5p]-o
 ]==],
 
-    ["As The Skyfall"] = [==[ [6pt]-[pt] 6 [4pt]-[pt] 4 
+    ["Skyfall"] = [==[ [6pt]-[pt] 6 [4pt]-[pt] 4 
 [2pt]-[pt] 2 [pt] 9 [pt]9-
 [6pt]-[pt] 6 [4pt]-[pt] 4 
 [2pt]-[pt] 2 [pt] 9 [pt]9-
@@ -867,7 +877,7 @@ s-a-[6ptu]--
 [36r]----
 ]==], 
 
-     ["As The Skyfall, But Only The Good Part"] = [==[ [0frW]-[0rW]-[0rW]-p s 
+     ["Skyfall Short"] = [==[ [0frW]-[0rW]-[0rW]-p s 
 [aetu] pp--[eqt]--
 [eqy]--ap a p-
 [aetu] pp--[eqt]--
@@ -1007,7 +1017,10 @@ o-[3i]--
 
  ["Low Cortisol"] = [==[ [p4tuiq] [st] f o [5yuoaw] [ay] f o [1tyuoP8] [aw] [dt] u [6tup] [p0] [se] s [4tipqe] s s d f f f a [5yioaqr] a a s d d d a [3yuoa0wr] a a s d o p s [6tup0e] s s p s d d s [4tipqe] s s d f f f a [5yioaqr] a a s d d d a [3yuoa0wr] a a s d o p s [6tup0e] s s p s d d s [4tipqe] s s p p a [5yioaqr] a a o o a [3yuoa0wr] a a o o s [6tup0e] s s p s d d s [4tipqe] s s p p a [5yioaqr] a a o o a [3yuoa0wr] a a o o s [6tup0e] s s p s d - f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] d f d [5yioaqr] d f d [3yuoa0wr] s s s p [6tup0e] f g h [4tipqe] j j h [5yioaqr] d f d [3yuoa0wr] s s s s p [6tup0e] ]=], 
  ["Low Cortisol Short"] = [=[ [6tup0e] s s p s d - f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] d f d [5yioaqr] d f d [3yuoa0wr] s s s p [6tup0e] f g h [4tipqe] j j h [5yioaqr] d f d [3yuoa0wr] s s s s p [6tup0e] ]=], 
-["Ao No Sumika/Where Our Blue Is"] = [=[[eOqtY] ipsDgjlZcbmZ[cq]84 
+
+["Low Cortisol Short"] = [==[ d - f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] h f f g h [5yioaqr] h h d s s s d [3yuoa0wr] d f d d [6tup0e] f d s s f g h [4tipqe] d f d [5yioaqr] d f d [3yuoa0wr] s s s p [6tup0e] f g h [4tipqe] j j h [5yioaqr] d f d [3yuoa0wr] s s s s p [6tup0e] ]==]
+
+["Ao No Sumika"] = [=[[eOqtY] ipsDgjlZcbmZ[cq]84 
 [^giPS]-[^EP]-[^OW] [EP] [^gi] [^DY] [HO] 
 ( it-T q D p i 
 ^ tT-Pti Y [i]W^ 
