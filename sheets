@@ -220,6 +220,549 @@ j [HOru] W f f G
 [%DIpS] % [@D]
 ]==], 
 
+["Megalovania"] = [==[
+#240
+t t d p O o i y i o
+r r d p O o i y i o
+E E d p O o i y i o
+y y d p O o i y i o
+t t d p O o i y i o
+r r d p O o i y i o
+E E d p O o i y i o
+9 9 d p O o i y i o
+8 8 d p O o i y i o
+7 7 d p O o i y i o
+^ ^ d p O o i y i o
+9 9 d p O o i y i o
+8 8 d p O o i y i o
+7 7 d p O o i y i o
+^ ^ d p O o i y i o
+[i9] i i i i o i
+[i8] i i o O o i y i o
+[i7] i i o O p s p
+[d^] d d p d s 8 h
+[p9] p p p p o o
+[p8] p p p p o d p o
+[d7] p o y s o i u
+[y^] u i p s 8
+]==], 
+
+["Runaway"] = [==[
+#174
+x x x f Z Z Z D L L L S j j H x 
+[W3] 0 W r [xW] 0 W r [W3] 0 W r [xW] 0 W r 
+[W3] 0 W r [xW] 0 W r [W3] 0 W r [fW] 0 W r 
+[W@] ( W r [ZW] ( W r [W@] ( W r [ZW] ( W r 
+[W@] ( W r [ZW] ( W r [W@] ( W r [WD] ( W r 
+[0!] * 0 W [L0] * 0 W [0!] * 0 W [L0] * 0 W 
+[0!] * 0 W [L0] * 0 W [0!] * 0 W [S0] * 0 W 
+[60] * 0 e [j0] * 0 e [60] * 0 e [j0] * 0 e 
+[60] * 0 e [H0] * 0 e [60] * 0 e x O O 
+[f30] a W [rp] W [O0] W [rO] [fW] [a0] W [rp] W [O0] W [rO] 
+[D@(] S [WD] r W ( W r W ( W r W (
+     [WH] [rH] [WH] [G(] [WG] [rG] W 
+[f(] W [rG] W ( [fW] r [WG] ( [WH] [rG] 
+[f*!] 0 W 0 * 0 W 0 * 0 W 0 * [f0] W [f0] * 
+a 0 [aW] 0 * 0 [WO] [a0] * [O0] W [a0] * [O0] [pWS] 
+6 f 0 e 0 * 0 e 0 * 0 e 0 * [f0] [fe] [f0] 
+[a*] 0 [ea] 0 * [O0] e [a0] * [O0] e [a0] * [S0][ ea] 
+[30] [uW] [r0] [uW] [ra0] [uaW] [ra0] 
+[uaW] [r0] [uaW] [ra0] [ufW] [r0] [uaW] [r0] 
+[uWO][ r0] [uW][ r0] [uW] [ra0] [uaW]
+ [ra0][ uraW] [uaW][ ra0]
+ [ ufW][ uOD] [urS] 
+[D@(] [YW] [r(] [YW][ rD(] [fYWH] [raD(]
+ [fYWH][ r(] [fYWH] [rGD(] [fYWH] [r(] [YWGD] [r(] 
+[fYWS] [r(] [YW] [r(] [YW] [rS(] [fYWSO] 
+[rS(] [fYWSO] [r(] [fYWSO] [rS(] 
+[YWOGD] [r(] [YWOGD] [rf(] 
+[*!] [T0] [W*] [T0] [WS*] [fTSO0] [WS*] 
+[fTSO0] [W*] [fTSO0] [WS*] [TOGD0] [W*] [TOGD0] f 
+[T0] [W*] [T0] [W*] [T0] [WS*] [fTSO0]
+ [WS*] [fTSO0] [W*] [fTSO0] [WS*] 
+ [TOGD0] [W*] [pTGD0] [fW*] 
+6 [T0] [e*] [aT0] [ea*] [aT0] [e*]
+ [aT0] [e*] [TO0] [e*] [TO0] a a a a O [SI] [aO] 
+[W3] 0 W r [xW] 0 W r 
+[W3] 0 W r [xW] 0 W r 
+[W3] 0 W r [xW] 0 W r 
+[W3] 0 W r [fW] 0 W r 
+[W@] ( W r [ZW] ( W r 
+[W@] ( W r [ZW] ( W r 
+[W@] ( W r [ZW] 5 ( W
+ r [W@] ( W r [WD] ( W r 
+[0!] * 0 W [L0] * 0 W 
+[0!] * 0 W [L0] * 0 W 
+[0!] * 0 W [L0] * 0 W 
+[0!] * 0 W [S0] * 0 W 
+[60] * 0 e [j0] * 0 e 
+[60] * 0 e [j0] * 0 e 
+[60] * 0 e [H0] * 0 e 
+[60] * 0 e f O O 
+[f30] a W [rp] W [O0] W [rO] [fW] 
+[a0] W [rp] W [O0] W [rO] 
+[D@(] S [WD] r W ( W r W ( 
+    W r W ( [WH] [rH] [WH] [G(] [WG] [rG] W 
+[f(] W [rG] W ( [fW] r [WG] ( [WH] [rG] 
+[f*!] 0 W 0 * 0 W 0 * 0 W 0 * [f0] W [f0] * 
+a 0 [aW] 0 * 0 [WO] [a0] * [O0]
+ W [a0] * [O0] [pWS] 
+6 f 0 e 0 * 0 e [30] [uW] [r0] 
+[uW] [ra0] [uaW] [ra0] [uaW] [r0] 
+[uaW] [ra0] [ufW] [r0] [uaW] [r0] 
+[uWO] [r0] [uW] [ra0] [uaW] [ra0] 
+[uraW] [uaW] [ra0] [ufW] [uOD] [urS] 
+[D@(] [YW] [r(] [YW] [rD(] [fYWH]
+ [raD(] [fYWH] [r(] [fYWH] [rGD(] [fYWH] [r(] [YWGD] [r(] 
+[fS*!] [T0] [W*] [T0] [W*] [T0] 
+[WS*] [fTSO0] [WS*] [fTSO0] [W*]
+ [fTSO0] [WS*] [TOGD0] [W*] [OGD0] f 
+[T0] [W*] [T0] [W*] [T0] [WS*] 
+[fTSO0] [WS*] [fTSO0] [W*] [fTSO0]
+ [WS*] [TOGD0] [W*] [TOGD0] f 
+[T0] [W*] [T0] [W*] [T0] [WS*] 
+[fTSO0] [WS*] [fTSO0] [W*] [fTSO0] 
+[WS*] [TOGD0] [W*] [pTGD0] [fW*] 
+6 [T0] [e*] [T0] [e*] [T0] [e*] 
+[kT0] [e*] k [T0] k [e*] [kT0] 
+[e*] [TH0] [e*] [T0] [e*] H x x x f
+]==],
+
+["Blue(Normal)"] = [==[
+#190
+t r w t r w
+t r w t y u
+[4o] p s g f d
+5 a s d s
+[1o] u i o
+[6a] s
+[4o] p s g f a
+5 h g f
+[1s] s s d d d
+[6f] f f a a a
+4 t p o
+[5p] o u i
+[1o] i u t
+[6t]
+4 p o o t
+[5u] y t y
+[1o] i u i
+[6u] y t
+[4u] o u y t
+[5u] o u u o
+[1p] o u y
+[6t] t y
+[4u] o u p o
+[5y] u y u
+[8t]
+[6t] t
+[4h] s s p p a s
+[5d] o o f d
+[1of] d d s
+[6p] p a s
+[4h] s s p a s
+[5d] o o f d
+[1f] d [Oad] s
+[6p] o u o
+[4p] o i
+[5u] y t
+[1tu] o [Wry] u
+[6et] p o
+[4t] p
+[5o] i u
+[8t] r w [8t] r w
+[6t] r w [6t] y [6u]
+[4o] p s g f d
+5 a s d s
+[1o] u i o
+[6a] s
+[4o] p s g f a
+5 h g f
+[1s] s s d d d
+[6f] f f a a a
+[4o] p s g f d
+5 a s d s
+[1o] u i o
+[6a] s
+[4f] h f s p
+[5a] o a s d
+[1s]
+[6a] s s
+[qa] p [qp] o
+[wp] [wy] u
+8 8
+[6et] [6y] u
+[4tp] o [4o] u
+[5p] o u [5y] t
+[8p] o u [8y] t
+[6et] 6 a
+[qs] a [qp] o
+[7u] o 7 u
+[8p] o u [8y] u o
+[6u] [6t] y u
+[4p] o [4o] u
+[5o] u [5o] u y
+[8t] 8
+6 6
+[qh] s s p [ep] a s
+[wd] [ro] f d
+[tf] d [td] s
+[ep] p a s
+[qh] s s [ep] a s
+[wd] [ro] f d
+[tf] d [Wd] s
+[ep] o u o
+[qp] o i
+[wu] y t
+[wu] o [W0y] u
+[et] p o
+[qt] p
+[wo] i u
+[8t] r w [8t] r [8w]
+[6t] r w [6t] y u
+[4o] p s [4g] f d
+5 a [5s] d s
+[8o] [8u] i o
+[6a] [6s]
+[4o] p s [4g] f a
+5 [5h] g f
+[8s] s s [8d] d d
+[6f] f f [6a] a a
+[4o] p s [4g] f d
+5 a [5s] d s
+[8o] [8u] i o
+[6a] [6s]
+[4f] h f [4s] p
+[5a] o [5a] s d
+[8s] [8s]
+[6a] [6s]
+[ih] j l c x z
+o k l z l
+[sh] f g h
+[psk] l
+[ix] v x l j
+[ok] h k l z
+[sl]
+]==], 
+
+["Blue(Hard)"] = [==[
+#230
+t - [ra] - [wo] -
+[ts] - [ra] - [wo]
+- [ts] - [ra] -
+[wo] - [ts] - [yd]
+- [uf] - q [oh] s
+[4osh] - [os] [os]
+q-[op] [etop] - a
+q-s-o-a-[5d] 9- w e
+r o [wo] r [tof] y
+[ud] o [8f] w-t
+[yod]-u y [od]-7 9
+w [es]-r t [6up] 0
+w e r p [qp] 0 a
+6-s-o-s-[4h] 8
+[qos] [os]-e [op]
+[etop] - a q
+s-o-a-[5d] 9-w e r
+o [wo] r [tof] y
+[ud]- i-o-s-[8f] w
+t [yod] u y
+[7d]-9-0 [Ws] e r
+[6tp] 0 W-e r-t
+[uo] e u 6
+o-t-u-[4p] 8 w e
+[to] q 8 4 1 t
+w-r-u 2-5 [6wy] 7 6
+7 8 9-0
+y-t-[1y]-u-5 8
+9-o-0 [W9] [7ry] q
+W-u-q 7 [6et] 0 w e
+r t y e [tp] 6 o-1
+[wt] - 4-8 w e [tp]
+w-r-y-o - 5 9 q-w
+[ri] - u - r 5
+[1wt] - r - w - t -
+r [us] [ofl] [as]
+[ofl]-[us] [tgz]
+[ud][ogz] [ad]
+[ogz] [ud] [ehx]
+[uf] [ohx] [af]
+[ohx] [uf] [edk]
+[us] [odk]-a-s
+[dk]-s o i-[tp] e
+[qs] 8 [4g]-8 [qf]
+w-[ed] r 5-9 w
+e-[ra] e [rs] t
+[yd]-u [os]-u [uo]
+t w - 8 5 [1tu]-5
+[8yi] 9
+[0uo]-w-t-u-[6a]
+0-w e r-t [6us] 0 w
+e- r - [qeyaf] - h
+- f - [etips] p-
+o-p-[wya] o - [ra]
+- s w-d - [8us] w t
+y u-o h f a o u-a o
+u t r e w 0 6 -
+k-s-f-[ql] - [eti]
+- [etik] - q -
+[etij] - h-[eti] -
+[wadj] - [ryi] -
+[ryih] [wd] -
+[ry]-[of] [ry] - 8
+t y-[0w]-u [0i] o-
+[8p] a [0ws] d
+[0wf] g [6s] - [uo]
+- [uo] - [ed] -
+[uo] f
+[uo]-p-s-f-[qj] -
+[etish] - [sh] -
+[qh] - [etif] -
+[etif]-p-s-[wj] -
+[ryih] - h - [wod]
+- [ry] f [ry]- s
+[8j] - f-[wu] -
+[wuf] - [7d] - [wf]
+- [ys]-w 6 s
+[0wa]-p [0wo] u
+[6y]-t w-0
+6-a-t-u-o-s - 4 -
+[rya] - q - [8p] -
+[4o] t-y-[5p] - 9 -
+[ro] - q - [9u] 5-o
+t-u-[1p] - [0o] - o
+- y - [wu] - [7o] -
+[6wtu] - 0 - r - t
+- w - 0-u-t-u-4-p -
+8 - o - e - y-4 u -
+[5wro] - 9 - u -
+[7wro] - u 5 y 5
+[1t] 5 8 9 0 w e r
+t y u o [60t] a s d
+f g h [osh] s s - p
+[tip] - a - s -
+[wyad] o [ro] - f y
+d o [8wf] - d - d -
+[uod] - w s 8 -
+[6tp] f y
+d-o-s-[8f] w t [yd]
+u i [7d] 9 0 W e-r
+[6tp] 0 w e r t
+[uo] e u-6 o-
+t-u-[4p] - 4 - o -
+[wt] - t - t w-r- u
+- - [wy] - 5 - w -
+t y [1tu] 5 8 [9o]
+0-w [W7y] q-W [ru]
+q 7 [6et] 0 w e r t
+y e [tp] 6 o-1 [wt]
+1 4 6 8 q [etp]
+q-8-4 4- [ro] - 5 7
+9 q-[wri] - 9 7 u-5
+[1wt] - r - w -
+[ts] - [ra] - [wo]
+6 [ts] - [ra] [wo]
+[ts] - [yd] - [uf]
+1 [4osh] - [pj] -
+[sl]-q-e-t-[igjc] -
+[fjzx] - [djz] -
+[59]
+[ak]-w-r-y-[osl] -
+d - l-8-w-o-s-[uh]
+[uof] - [yg] - [th]
+- s-[erfk] [tl]
+[qei] - h j l z
+[ipgjc] - x - z -
+w-r y o p a [shkv]
+- [dc] - [fx] -
+[tol] h l h l h
+[dkz] h [okz] h
+[kz]-h [eulx]-h
+[lx]-h [lx] h [hk]
+- h d [hk] d e-i-
+]==], 
+
+["Erika(Hard)"] = [==[
+#228
+[8flt] [fl] [fl]hfh
+[4dlq] [dl] [dl]gdj[5how] [fh] [5fhw] [fh] 
+[5fhw]-[5h][%H][6j][7k][8l]-[7r]-
+[6e]-[5w]-[8t]-[5w]-
+[8tu]-[5w] i [8otu]-[5ouw]-
+[8otu]-[5osuw]-[8ostu]-[5fosw]-
+[7afor]-[5w] [do] [8ost]-[7r]-
+[6e]-[5w]-[7aor]-[5osw]-
+[7ador]-[5w]-[7r]-[5w]-
+[7afor]-[5w] [do] [8ost]-[7r]-
+[6e]-[5w]-[8tu]-[5w] i 
+[8otu]-[5ouw]-[8otu]-[5osuw]-
+[8ostu]-[5fosw]-[7afor]-[5w] [do] 
+[8ost]-[7r]-[6e]-[5w]-
+[7aor]-[5osw]-[7ador]-[5w]-
+[7r]-[5w]-[7afor]-[5w] [do] 
+[8ost]-[5w]-8-[5w]-
+[8otu]-[5w] s [5ao] 9 [9ao] 9 
+[5ao] 9 [9ao] 9 [5ip] 9 [9ao] 9 
+[8s] [0o]o[5o] [0s]s[8s] [0f]f[5f] [0h] 
+[8ao] 0 5 [0os] [5do] 9 [9do] 9 
+[5do] 9 [9do] 9 [5do] 9 [9ag] 9 
+[8f] [0s]s[5s] [0o]o[8o] [0u]u[5u] 0 
+[8tu]-[5w] i [8otu]-[5ouw]-
+[8otu]-[5osuw]-[8ostu]-[5fosw]-
+[7afor]-[5w] [do] [8ost]-[7r]-
+[6e]-[5w]-[7aor]-[5osw]-
+[7ador]-[5w]-[7r]-[5w]-
+[7afor]-[5w] [do] [8ost]-[7r]-
+[6e]-[5w]-[8tu]-[5w] i 
+[8otu]-[5ouw]-[8otu]-[5osuw]-
+[8ostu]-[5fosw]-[7afor]-[5w] [do] 
+[8ost]-[7r]-[6e]-[5w]-
+[7aor]-[5osw]-[7ador]-[5w]-
+[7r]-[5w]-[7afor]-[5w] [do] 
+[8ost]-[5w]-8-[5w]-
+[8otu]-[5w] s [5ao] 9 [9ao] 9 
+[5ao] 9 [9ao] 9 [5ip] 9 [9ao] 9 
+[8s] [0o]o[5o] [0s]s[8s] [0f]f[5f] [0h] 
+[8ao] 0 5 [0os] [5do] 9 [9do] 9 
+[5do] 9 [9do] 9 [5do] 9 [9ag] 9 
+[8f] [0s]s[5s] [0o]o[8o] [0u]u[5u] 0 
+[8tu]-[5w] i [8otu]-[5ouw]-
+[8otu]-[5osuw]-[8ostu]-[5fosw]-
+[7afor]-[5w] [do] [8st]-[7r]-
+[6e]-[5w]-[7aor]-[5osw]-
+[7ador]-[5w]-[7r]-[5w]-
+[7afor]-[5w] [do] [8st]-f[5hw] fh
+[8l]-[fh] [fh] [8fh] 0 [5fj] [0fj] 
+[8fj] 0 [5fh] [0fh] [5dh] 9 [9g]h[9g]f
+[5d] 9 [9ad] [9ps] [5ao] [9ps] [9ad] [9fs] 
+[5dg] [9fh] [9gk] w [8gj] 0 [5h]j[0h]g
+[8f] 0 [5fh] [0fh] [8fh] 0 [5fj] [0fj] 
+[8fj] 0 [5fh] [0fh] [5dh] 9 [9h]j[9h]g
+[5dg] 9 [9ad] [9os] [5aow] [9ps] [9ad] [9fs] 
+[5dg] [9fh] [9gj] [9hk] [8hl] [0hl] [5hl] [0hl] 
+[8hlt]-h h [8lt]-l l 
+[8jlt]-[jl] j [9jz]-[Gjz][Gjz] [Gjz] 
+[Gjz]--h [9Gjz] [eQ] [6Gjz] [eQ] 
+[9Gjz] [eQ] [6Gjz] [eQ] [9Gjz] [eQ] [6Cjz] [eQ] 
+[*Cjz] [0e] 6 [0ex] [9jz] [eQ] * [eQ] 
+7 [eQ] 6 [eQ] [*jL] [0e] [6jz] [0e] 
+[*jLx] [0e] 6 [0e] * [0e] 6 [0e] 
+[*CjL] [0e] 6 [0ejx] [9jz] [eQ] * [eQ] 
+7 [eQ] 6 [eQ] [9dG] [eQ] 6 [dehQ] 
+[9Gj] [eQ] [6Gj] [eQ] [9Gj] [eQ] [6Gjz] [eQ] 
+[9Gjz] [eQ] [6Cjz] [eQ] [*CjL] [0e] 6 [0ejx] 
+[9jz] [eQ] * [eQ] 7 [eQ] 6 [eQ] 
+[9jL] [eQ] [6jz] [eQ] [*jLx] [0e] 6 [0e] 
+* [0e] 6 [0e] [*CjL] [0e] 6 [0ejx] 
+[9jz] [eQ] 6 [eQ] 9 [eQ] 6 [eQ] 
+[9fj] [eQ] 6 [efjQz] [*fjL] [eQ] [6fjL] [0e] 
+[*fj] [0e] [6fjL] [0e] [7fk] [0e] [*fjL] e 
+[9Gjz] Q 6 [eQ] 9 [eQ] 6 [eQ] 
+[9jL] [eQ] [6jz] [eQ] [*jLx] [0e] [6jLx] [0e] 
+[*jLx] [0e] [6jLx] [0e] [*jLx] [0e] [6kvz] [0e] 
+[9Cjz] [eQ] 6 [eQ] 9 [eQ] 6 [eQ] 
+[9dG] [eQ] 6 [dehQ] [9Gj] [eQ] [6Gj] [eQ] 
+[9Gj] [eQ] [6Gjz] [eQ] [9Gjz] [eQ] [6Cjz] Q 
+[*CjL] [0e] 6 [0jx] [9jz] [eQ] * [eQ] 
+7 [eQ] 6 [eQ] [9jL] [eQ] [6jz] [eQ] 
+[*jLx] [0e] 6 0 * [0e] 6 0 
+[*CjL] [0e] 6 [0jLx] [9ejQz]-[dG]j Gj
+[9yz]-[9dyz]-[9dyz][9yz]--
+]==], 
+
+["Golden Hour"] = [==[
+#188
+[dq] g h j h f [dq] g h j h f [dq] g h j h f [dq] g h j h f
+[s0] f h j h f [s0] f h j h f [s0] f h j h f [s(] f h j h f
+[s9] d g h g d [s9] d g h g d [s9] d g h g d [s9] d g h g d
+[a8] s d f d s [a8] s d f d s [a8] s d f d s [a8] s d f d s
+[uq] u u u u y q [uq] u u u u [uq] u u u
+[u0] u u u u y 0 [u0] u u u [u(] u u u u
+[y9] t u y u y 9 [u9] y u y u y 9 t
+[u8] u u u u [u8] u u u u [u8] u u y t 8 u o [p4]
+u p a s 4 | u p a [a0] p o [oy]
+u [a0] p o [a(] p o [o9] i t
+9 t [oe] i u [u0] 0 0 [p0] 0 0 [s0] 0 0 d
+[f4] 0 t q [p4] [a0] [hu] [gy] [f8]
+r u d t p s [a8]
+[ay] [s2] [d3] [f4] 0 t q
+[p4] [a0] [hu] [gy] [f8] r u t p s [a8] y [P2] [P3]
+[uq] u u u u y q [uq] u u u u [uq] u u u
+[u0] u u u u y 0 [u0] u u u [u(] u u u u
+[y9] t u y u y 9 [u9] y u y u y 9 t
+u 8 u u u y y u 8 u u u y y u 8 u u y t t u o p 4
+u p a s 4 u p a a 0 p o o y u a 0 p o a ( p o o 9 i t
+9 t [oe] i u u 8 r [u8] u u y t r u o [p4]
+u p a s 4 | u p a [a0] p o [oy] | u [a0] p o [a(] p o [o9] i
+9 t [oe] i u [u0] 0 0 [p0] 0 0 [s0] 0 0 d [f4]
+0 t q [p4] [a0] [hu] [gy] [f8]
+r u d t p s [a8] [ay] [s2] [d3] [f4]
+0 t q [p4] [a0] [hu] [gy] [f8]
+r u t p s [a8] y [P2] [P3]
+[ft] w w w w p w a w [ht] w g w [fr] r r
+[ar] s d f d s a s d f d s a
+[s1] d f | d f h j h f [du] f h j h f [dy] f h j h f
+[pt] a h W g f 1
+a s d f d s a s d f d s [ay] s d [fu] d s [ai] s d [fu] d s
+a s d f d s P s d f d s P s d f d s [ft]
+s p | [fr] a o | [dE] P p i [de] P p
+[sw] o s f y G e y p s d p G d j
+]==], 
+
+["Erika(Normal)"] = [==[
+#228
+Q--
+[ow] [9e]-[eQ]-[9ep]-
+y-[9Qy]-I-[9eI]-
+[9fu] [9Qy]-[9ep]-[r9]-
+[9e]-[9ST]-y-[06fu]-
+[eQ]-[9r]-[eQ]-[6eI]--
+[fu] [9Qy]-[eQ]-[9r]-
+[eQ]-Q--[ow] [e9]-
+[Qe]-[9e]-y-[9Qy]-I-
+[9eI]-[9fu] [9Qy]-[e9]-
+[9r]-[9e]-[ST]-y-
+[06fu]-[eQ]-[9r]-[eQ]-
+[6eI]--[fu] [9Qy]-[eQ]-
+[9r]-[eQ]-e--y 
+T6-[0T]-[6T]-[0T]-
+[6r]-[0T]-[9Qy]-e-r
+9-e-[ST]--y [6fu]-
+[0efu]-[6fu]-[0efu]-p-
+[ho]-[9eI]-e-[9r]-
+[ep]-Q--[ow] [e9]-
+[eQ]-[9e]-y-[9Qy]-
+I-[9eI]-[9fu] [9Qy]-
+[9e]-[9r]-[9e]-T-
+y-[06fu]-[eQ]-r9-[eQ]-
+[6eI]--[fu] [9Qy]-[eQ]-
+[9r]-[eQ]-Q--
+[ow] [9e]-[eQ]-[9e]-y-
+[9Qy]-I-[9eI]-[9fu] 
+[9Qy]-[9e]-[9r]-[9e]-
+[ST]-y-[06fu]-[epQ]-
+r9-[eQ]-[6eI]--[fu] 
+[9Qy]-[eQ]-[9r]-[eQ]-Q--
+[ow] [9e]-[eQ]-[9e]-
+y-[9Qy]-I-[9eI]-
+9[9fu] [9Qy]-[9e]-[9r]-
+[9e]-T-y-6[0u]-
+[eQ]-[9r]-[eQ]-[6eI]--
+[fu] [9Qy]-[eQ]-r9-
+[eQ]-[ep]--y [6T]-[0T]-
+[6T]-[0T]-[6r]-T0-
+[9Qy]-e-[9r]-e-
+T--y [6f]u-f[0eu]-
+[6fu]-[0efu]-p-[ho]-
+[9eI]-e-[9r]-e-
+Q--[ow] [9e]-[eQ]-
+[9e]-y-[9Qy]-I-I
+[9e]-9 [fu] [9Qy]-[9e]-[9r]-
+[9e]-[ST]-y-f[06u]-
+[0eQ]-[9r]-[eQ]-[6eI]--
+[fu] [eQy]9--
+]==], 
+
 ["NiFEM(Hard)"] = [==[P [@h] [wY] [EYo] (
 [Wyg] [ryOh] [@g]
 [wY] [EYo] [2D] [wY]
